@@ -98,6 +98,8 @@ chmod +x script*.sh
 ./script2.sh
 ./script3.sh
 ./script4.sh /var/log/syslog
+# or
+./script4.sh /var/log/messages
 ./script5.sh
 ```
 
@@ -129,3 +131,4 @@ This project demonstrates both theoretical understanding and practical implement
 ---
 
 ⭐ This repository is part of an academic project submission.
+This project was implemented and tested on Ubuntu 22.04 (WSL environment).
