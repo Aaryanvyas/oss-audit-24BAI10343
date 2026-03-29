@@ -1,5 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
+# Author: Aryan Vyas | Course: Open Source Software
 
 STUDENT_NAME="Aryan"
 SOFTWARE_CHOICE="Python"
