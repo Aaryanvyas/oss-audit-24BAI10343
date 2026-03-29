@@ -1,5 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
+# Author: Aryan Vyas | Course: Open Source Software
 
 PACKAGE="python3"
 
